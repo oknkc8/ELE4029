@@ -1,0 +1,12 @@
+int main(void)
+{
+	int a;
+	int b;
+
+	if (a<3){
+		int r;
+		r=4;
+	}
+
+	return 0;
+}

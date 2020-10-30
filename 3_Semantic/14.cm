@@ -1,0 +1,14 @@
+int main(void)
+{
+	int a[4];
+	int b[10];
+
+	int c;
+	c=0;
+	while(c<100){
+		int d;
+		d = input();
+		c = c+1;
+		a[b[c*d]]=1;
+	}
+}
